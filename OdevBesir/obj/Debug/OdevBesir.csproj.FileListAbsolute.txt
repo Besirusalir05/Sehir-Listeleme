@@ -1,0 +1,10 @@
+C:\Users\Kerem\Desktop\OdevBesir\bin\Debug\OdevBesir.exe.config
+C:\Users\Kerem\Desktop\OdevBesir\bin\Debug\OdevBesir.exe
+C:\Users\Kerem\Desktop\OdevBesir\bin\Debug\OdevBesir.pdb
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.Form1.resources
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.Properties.Resources.resources
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.csproj.GenerateResource.cache
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.exe
+C:\Users\Kerem\Desktop\OdevBesir\obj\Debug\OdevBesir.pdb
